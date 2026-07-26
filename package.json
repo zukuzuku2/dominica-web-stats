@@ -23,5 +23,9 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.29.1",
     "nodemon": "^3.0.3"
+  },
+  "overrides": {
+    "minimatch": "^9.0.3",
+    "brace-expansion": "^5.0.8"
   }
 }
